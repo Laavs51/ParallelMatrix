@@ -1,0 +1,4 @@
+﻿  ParallelMatrix.cpp
+C:\Users\neusn\Documents\GitHub\ParallelMatrix\ParallelMatrix\ParallelMatrix\ParallelMatrix.cpp(37,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\neusn\Documents\GitHub\ParallelMatrix\ParallelMatrix\ParallelMatrix\ParallelMatrix.cpp(30,5): warning C4101: i: неиспользованная локальная переменная
+  ParallelMatrix.vcxproj -> C:\Users\neusn\Documents\GitHub\ParallelMatrix\ParallelMatrix\x64\Debug\ParallelMatrix.exe
